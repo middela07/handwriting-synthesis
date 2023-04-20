@@ -1,4 +1,4 @@
-# Detailed Analysis & Proof of Work for Contributions
+# Detailed Analysis of Handwriting Synthesis Contributions & Proof of Work
 
 ## Purpose:
 This document will guide you through steps to contribute to the project, but it will be in vain due to better OCR execution alternatives. Read OCR_Alternative.txt to learn more.
